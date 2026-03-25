@@ -89,4 +89,4 @@ Projeto desenvolvido com foco em aprendizado de desenvolvimento backend com Java
 
 ## 👩‍💻 Autora
 
-Hevellyn Alves
+Hevellyn De Souza Alves
