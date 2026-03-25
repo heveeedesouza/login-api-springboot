@@ -33,7 +33,7 @@ POST /auth/register
 
 ```json
 {
-  "email": "teste@email.com",
+  "email": "login@gmail.com",
   "senha": "123456"
 }
 ```
@@ -46,7 +46,7 @@ POST /auth/login
 
 ```json
 {
-  "email": "teste@email.com",
+  "email": "login@gmail.com",
   "senha": "123456"
 }
 ```
